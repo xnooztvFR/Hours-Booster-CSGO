@@ -1,0 +1,2 @@
+node IdlerConfig.js
+pause

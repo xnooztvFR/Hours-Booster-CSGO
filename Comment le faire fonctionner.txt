@@ -1,0 +1,11 @@
+1) Télécharger NodeJS si vous ne l'avez pas, lien: https://nodejs.org/dist/v6.10.0/node-v6.10.0-x64.msi
+2) Ouvrir "IdlerConfig.js" avec notepad++ (recommandé), bloc note ou autre éditeurs.
+3) Sur la ligne:  config.username = "MONCOMPTESTEAM";
+				  Modifier "MONCOMPTESTEAM" par votre nom d'utilisateur steam (pas le pseudo, le nom d'utilisateur pour se connecter sur steam)
+   Sur la ligne:  config.password = 'MONMDP';
+				  Modifier "MONMDP" par le mot de passe du compte steam
+4) Lancer "Install.cmd"
+5) A la fin du téléchargement, lancer "StartIdle.cmd", rentrer le code steam guard si demandé,
+   vous devriez voir votre compte entrain de jouer à CSGO ou autre jeu.
+
+Bon boost d'heures !
